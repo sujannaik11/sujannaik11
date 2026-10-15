@@ -1,3 +1,4 @@
+![Profile Banner]( https://github.com/sujannaik11/sujannaik11/blob/main/White%20and%20Black%20Modern%20Professional%20Copywriter%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sujan Naik</h1>
 <h3 align="center">Passionate Full-Stack Developer | AI Enthusiast | Building Innovative Digital Solutions</h3>
 
